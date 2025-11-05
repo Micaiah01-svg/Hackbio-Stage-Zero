@@ -18,4 +18,4 @@ So yes, personalized medicine is real. It's changing how we understand health an
 
 At the heart of it, bioinformatics is already doing its part. It's decoding the language of life and translating it into solutions that can transform healthcare. The challenge now lies in bridging the gap between what we know is possible and what our systems are ready to handle.
 
-Personalized medicine isn't just the future; it's the present. It's just not evenly distributed ye
+Personalized medicine isn't just the future; it's the present. It's just not evenly distributed yet
