@@ -1,21 +1,23 @@
 **Why Personalized Medicine Isn't Just Hype But Still Isn't Routine**
 
-Personalized medicine has become one of those buzzwords that feels almost futuristic, like something straight out of a science fiction movie where every treatment is perfectly designed for your DNA. But here's the truth: it's not just hype anymore. It's happening right now. Scientists and doctors are beginning to understand that healthcare doesn't have to be "one size fits all." Instead, with the help of bioinformatics, medicine is moving toward something smarter and truly personal.
+Personalized medicine isn't just a buzzword-it's already changing how we understand and treat disease. By tailoring therapy to an individual's genetic profile, environment, and lifestyle, clinicians are shifting from a "one size fits all" approach to one of precision and insight.
 
-At its core, personalized medicine is about tailoring medical treatment to the individual characteristics of each patient. Instead of giving everyone with the same disease the same drug, doctors can now look at your genetic makeup, your environment, and even your lifestyle before deciding what treatment works best for you. It's the difference between guessing and knowing. And that shift is largely powered by bioinformatics, the field that makes sense of all the complex biological data that define who we are.
+For example, therapies such as trastuzumab for HER2-positive breast cancer demonstrate tangible benefits when treatment is matched to molecular markers (Piccart-Gebhart et al., 2005). Pharmacogenetic screening, like checking HLA-B\*57:01 before prescribing abacavir, prevents life-threatening reactions, showing how genomics is saving lives today (Phillips et al., 2018). At the system level, the UK's 100,000 Genomes Project has helped embed whole-genome sequencing into the National Health Service (NHS) workflows-about one in four participants with rare disease received a new diagnosis through the initiative (Genomics England, 2018).
 
-Bioinformatics plays a vital role here. Think about it: our DNA carries over three billion base pairs. Without computational tools and algorithms to analyze that data, we'd never be able to identify which genetic variants are linked to certain diseases or predict how a patient might respond to a drug. Bioinformatics helps uncover these hidden patterns; it turns raw genomic data into knowledge. It's what allows researchers to identify biomarkers for early diagnosis, discover new drug targets, and even design gene therapies that directly correct mutations.
+Bioinformatics is the engine powering this transformation. With over 3 billion base pairs in the human genome, only computational tools can make sense of how variants link to disease, drug response and patient outcomes. Led by national efforts in the UK, Estonia and Singapore, genomics programs show how large-scale data, secure platforms and interpretive pipelines can bring personalized medicine into practice (Genomics England, 2022; OECD, 2019).
 
-But if personalized medicine holds so much promise, why isn't it routine yet?
+So why isn't personalized medicine yet routine across all health systems? Three major bottlenecks remain:
 
-That's where the healthcare system starts to show its cracks. First, there's the issue of accessibility. Genetic sequencing, though cheaper than it once was, still isn't affordable or available to everyone, especially in developing countries where basic healthcare is still a challenge. The technology gap means that while some patients benefit from genome-informed care, others are left behind.
+- **Accessibility**: Genomic sequencing and analysis remain too costly or unavailable in many regions.
+- **Infrastructure & Data Governance**: Many healthcare systems lack robust pipelines for storing, sharing and interpreting genomic and clinical data.
+- **Workforce Readiness**: Clinicians trained before the genomics era often lack the confidence and tools needed to interpret and act on genetic information.
 
-Then there's the data problem. Personalized medicine depends on massive amounts of data-genomic, clinical, and lifestyle information-and not all hospitals or countries have the infrastructure to collect, store, and analyze it properly. Even when the data exists, privacy concerns and poor data-sharing policies often prevent it from being used effectively.
+In short, personalized medicine is real, impactful and growing-in practice and study. It's not hype anymore. But to make it routine we need more than technology: we need global access, system redesign and clinically trained teams ready to interpret genomic data. The science is ready; the challenge now lies in scaling and integrating it.
 
-Lastly, there's the training gap. Many healthcare professionals are not yet equipped to interpret genomic information. A doctor might receive a patient's genetic report and still not know how to apply it in a clinical context. Until the system fully integrates genomics into medical education and everyday clinical practice, personalized medicine will remain more of an exception than the norm.
+**References**
 
-So yes, personalized medicine is real. It's changing how we understand health and disease. But for it to become routine, we need more than technology. We need systems that can support it, policies that encourage it, and professionals who are ready to use it.
-
-At the heart of it, bioinformatics is already doing its part. It's decoding the language of life and translating it into solutions that can transform healthcare. The challenge now lies in bridging the gap between what we know is possible and what our systems are ready to handle.
-
-Personalized medicine isn't just the future; it's the present. It's just not evenly distributed yet
+- Genomics England. (2018). _The 100 000 Genomes Project: Paving the way to personalised medicine_. <https://www.genomicsengland.co.uk/initiatives/100000-genomes-project/overview> (Genomics England, 2018)
+- Organisation for Economic Co-operation and Development (OECD). (2019). _The 100 000 Genomes Project_ \[Innovation case\]. OECD. <https://oecd-opsi.org/innovations/100000-genomes-project> (OECD, 2019)
+- Piccart-Gebhart, M. J., Procter, M., Leyland-Jones, B., Goldhirsch, A., Untch, M., Smith, I., … Cameron, D. (2005). Trastuzumab after adjuvant chemotherapy in HER2-positive breast cancer. _New England Journal of Medicine, 353_(16), 1659-1672. <https://doi.org/10.1056/NEJMoa052306> (Piccart-Gebhart et al., 2005)
+- Phillips, E. J., Mallal, S. A., & Hughes, D. A. (2018). Pharmacogenomics of drug hypersensitivity: Focus on HLA. _Pharmacogenomics and Personalized Medicine, 11_, 123-135. <https://doi.org/10.2147/PGPM.S154468> (Phillips et al., 2018)
+- Genomics England. (2022). Insights for precision oncology from the integration of genomic and real-world clinical data from the 100 000 Genomes Project. _Genome Medicine, 14_(1), 145. <https://doi.org/10.1186/s13073-022-01035-8> (Genomics England, 2022)
